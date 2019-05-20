@@ -3,6 +3,16 @@
 	border-radius: 25px;
 }
 
+.btn-outline-light {
+	color: #000000;
+	border-color: #999999;
+}
+
+hr {
+	border-top: 1px solid rgba(0,0,0,1);
+	width: 80px;
+}
+
 /* NAVBAR */
 .navbar-brand {
     font-size: 30px;
@@ -17,20 +27,40 @@
 	color: #999999;
 }
 
-
-/* JUMBOTRON */
-
-.jumbotron {
+.background-page {
 	background-color: #ffe1bd;
-}
-
-.jumbotron hr {
-	border-top: 1px solid rgba(0,0,0,1);
-	width: 80px;
 }
 
 
 /* Secciones */
 .section-title {
 	font-size: 45px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.article-title-1 {
+	font-size: 20px;
+}
+
+.article-title-2 {
+	font-size: 32px;
+}
+
+.section hr {
+	margin-left: 0;
+}
+
+/* TEAM */
+
+.card {
+	width: 13rem;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
+
+.card img {
+	width: 150px;
+	margin: 0 auto;
 }
