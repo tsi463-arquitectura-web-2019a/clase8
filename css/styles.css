@@ -1,0 +1,36 @@
+/* GENERAL */
+.btn {
+	border-radius: 25px;
+}
+
+/* NAVBAR */
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar .navbar-brand {
+	color: #000000;
+}
+
+.navbar .nav-item {
+	color: #999999;
+}
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+	background-color: #ffe1bd;
+}
+
+.jumbotron hr {
+	border-top: 1px solid rgba(0,0,0,1);
+	width: 80px;
+}
+
+
+/* Secciones */
+.section-title {
+	font-size: 45px;
+}
